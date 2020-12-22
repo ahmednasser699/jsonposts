@@ -1,11 +1,11 @@
 {
   "posts": [
     {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "userId": "string",
+      "id": "int",
+      "title": "string",
+      "description": "string",
+      "content": "string"
   }
   ]
 }
