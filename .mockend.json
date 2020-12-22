@@ -1,0 +1,11 @@
+{
+"posts": [
+   {
+    "userId": "int",
+      "id": "int",
+      "title": "string",
+      "description": "string",
+      "content": "string"
+  }
+  ]
+}
